@@ -42,7 +42,7 @@ int main()
 ```
 
 ## OUTPUT
-![image](https://github.com/baskarsaraswathy/Linux-File-IO-Systems-locking/assets/144871005/5a625e37-d845-4641-9180-5f77a2cbdb98)
+![image](https://github.com/NyomX/Linux-File-IO-Systems-locking/assets/145953580/92a84e8a-cdb8-4c0f-bd02-7df3abd09feb)
 
 
 
@@ -100,7 +100,7 @@ int main (int argc, char* argv[])
 
 ## OUTPUT
 
-![image](https://github.com/baskarsaraswathy/Linux-File-IO-Systems-locking/assets/144871005/f944d401-45d6-4d9b-a89e-afe38eb612c1)
+![image](https://github.com/NyomX/Linux-File-IO-Systems-locking/assets/145953580/bb89064f-11ad-48eb-84f5-339783f0acc9)
 
 
 
